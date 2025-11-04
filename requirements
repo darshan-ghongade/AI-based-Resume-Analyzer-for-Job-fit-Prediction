@@ -1,0 +1,8 @@
+streamlit
+pandas
+PyPDF2
+io
+re
+nltk
+sklearn
+sentence_transformers
